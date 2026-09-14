@@ -1,0 +1,7 @@
+{
+  "name": "SoundDeck",
+  "description": "Soundboard monofónico y consola de automatización para OBS Studio y HTTP REST.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

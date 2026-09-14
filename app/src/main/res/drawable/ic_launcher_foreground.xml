@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Sound Deck 2x2 Glowing Tactile Grid in 66dp safe zone (x: 21..87, y: 21..87) -->
+    <!-- Top-Left Pad: Cyan -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M26,26 h24 v24 h-24 z" />
+    <!-- Top-Right Pad: Purple/Indigo -->
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M58,26 h24 v24 h-24 z" />
+    <!-- Bottom-Left Pad: Coral/Pink -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M26,58 h24 v24 h-24 z" />
+    <!-- Bottom-Right Pad: Amber/Orange -->
+    <path
+        android:fillColor="#FFAB00"
+        android:pathData="M58,58 h24 v24 h-24 z" />
+
+    <!-- Audio Wave / Broadcast overlay in center -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,38h-2v2h2v-2zM70,38h-2v2h2v-2zM38,70h-2v2h2v-2zM70,70h-2v2h2v-2z" />
+    <!-- Central Sound Waves -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,51h4v6h-4z M42,47h4v14h-4z M54,45h4v18h-4z M60,49h4v10h-4z M66,52h4v4h-4z" />
+</vector>
+
